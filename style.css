@@ -1,0 +1,16 @@
+body {
+    background-color: rgba(168, 167, 167, 0.226);
+}
+h3 {
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+.form-control {
+    margin-top: -30px;
+    padding: 25px;
+    border-style: dashed;
+    margin-bottom: -7px;
+}
+.main {
+    padding: 25px;
+}
