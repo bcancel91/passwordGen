@@ -13,5 +13,5 @@ The user is also able to copy the password with the click of the copy clipboard 
 
  [Link to access](https://bcancel91.github.io/passwordGen/)
  
- ![App Image](https://github.com/bcancel91/passwordGen/blob/88107baa90b89dc321347b38c6a627827f07b54e/asssets/images/passwordGenScreenShot.png
+ ![App Image](/asssets/images/passwordGenScreenShot.png)
 
