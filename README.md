@@ -8,5 +8,6 @@ You are able to make modifications to you generated paswword.
 The user is also able to copy the password with the click of the copy clipboard button.
 
  Link to access https://bcancel91.github.io/passwordGen/
- [alt](img)
+ 
+ 
 
