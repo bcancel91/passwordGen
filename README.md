@@ -1,5 +1,5 @@
 # passwordGen
-<<<<<<< HEAD
+
 This application develops a random password for the user.
 The application asks the user a few questions to delvelop password to the user's needs.
 There is a minimum and a maximum requirement of characters to generate a password.
